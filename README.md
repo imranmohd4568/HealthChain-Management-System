@@ -1,6 +1,6 @@
-# D-Healthcare
+# HMC 
 
-D-Healthcare is a blockchain-based decentralized application for storing and sharing of EMR (Electronic Medical Records) of patients. It provides an end-to-end solution for a healthcare system while securely storing patient medical records, and giving patients control over their data.
+HMC is a blockchain-based decentralized application for storing and sharing of EMR (Electronic Medical Records) of patients. It provides an end-to-end solution for a healthcare system while securely storing patient medical records, and giving patients control over their data.
 
 ## Prerequisites:
 
